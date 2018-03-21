@@ -46,7 +46,7 @@
 - LaTeX commands are just complicated sets of TeX commands underneath AKA “macros”
   - Includes setting up sections, title pages, bibliographies
 
-```
+```tex
 \TeX{} is good at typesetting words like `fjord', `efficiancy',
 and `fiasco'. It is also good at typesetting math like,
 $a^2 + b^2 = c^2$.
@@ -58,7 +58,7 @@ $a^2 + b^2 = c^2$.
 
 ### Let's Begin!
 
-```
+```latex
 \documentclass{article}
 \begin{document}
 Here is my text
@@ -70,7 +70,7 @@ Here is my text
 
 ### Formatting Basics
 
-```
+```latex
 \textbf{argument}
 \textit{argument}
 \underline{argument}
@@ -85,7 +85,7 @@ Here is my text
 
 ### Let's not get aHEAD of ourselves!
 
-```
+```latex
 \documentclass{article}
 
 \title{Lab One: Terminal Velocity and Drag Force}
@@ -102,7 +102,7 @@ Here is my text
 
 ### Section Formatting
 
-```
+```latex
 \section{Introduction}
 
 \subsection{Abstract}
@@ -116,7 +116,7 @@ This lab was conducted to examine terminal velocity, the limiting case in the as
 
 ### Equation Formatting
 
-```
+```latex
 \section{Introduction}
 
 When an object reaches its terminal velocity while falling in air under the influence of gravity, we can state that:
@@ -130,7 +130,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 ### List Formatting
 
-```
+```latex
 \begin{itemize}
   \item Begin each bulleted list with a begin\{itemize\} command.
   \item Add your list items using the list command.
@@ -149,7 +149,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 ### Table Formatting
 
-```
+```latex
 \begin{center}
 \begin{tabular}{ c c c }
  cell1 & cell2 & cell3 \\ 
@@ -170,7 +170,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ```
 ![tableformatting1](https://i.imgur.com/F8kX60D.png)
 
-```
+```latex
 \begin{center}
 \begin{tabular}{ |c|c|c| } 
  \hline
@@ -199,7 +199,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 ### Images
 
-```
+```latex
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=1.7]{universe.jpg}
@@ -213,7 +213,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 ### Embedded Bibliography
 
-```
+```latex
 [ADD CODE HERE]
 ```
 ![embeddedbibliography](https://i.imgur.com/xjl4py6.png)
@@ -222,7 +222,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 ### Bibliography with Natbib
 
-```
+```latex
 [ADD CODE HERE]
 ```
 ![bibliographywithnatbib](https://i.imgur.com/UqYAVZo.png)
