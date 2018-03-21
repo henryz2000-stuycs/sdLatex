@@ -1,49 +1,66 @@
-## Welcome to GitHub Pages
+## LaTeX
+### Karen Chen, Sonal Parab, Henry Zheng
+### SoftDev pd. 8
 
 [LINK TO GUIDE](https://henryz2000.github.io/sdLatex/)
 
-1. [Markdown](#markdown)
-2. [Jekyll Themes](#jekyll-themes)
-3. [Support or Contact](#support-or-contact)
+1. [Background Info](#background-info)
+2. [LaTeX Intro](#latex-intro)
+3. [TeX and LaTeX](#tex-and-latex)
+4. [Let's Begin!](#lets-begin)
+5. [Formatting Basics](#formatting-basics)
+6. [Let's not get aHEAD of ourselves!](#lets-not-get-ahead-of-ourselves)
+7. [Section Formatting](#section-formatting)
+8. [Equation Formatting](#equation-formatting)
+9. [List Formatting](#list-formatting)
+10. [Table Formatting](#table-formatting)
+11. [Images](#images)
+12. [Embedded Bibliography](#embedded-bibliography)
+13. [Bibliography with Natbib](#bibliography-with-natbib)
+14. [LaTeX vs. WYSIWYG](#latex-vs-wysiwyg)
+15. [Who Uses LaTeX?](#who-uses-latex)
 
-You can use the [editor on GitHub](https://github.com/henryz2000/sdLatex/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Background Info
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Developed by Leslie Lamport
+- Released in 1985
+- Free document preparation system (typesetting) 
+- Built off of a system known as TeX (released in 1978 by Donald Knuth)
 
-### Markdown
+[Back to Top](#latex)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LaTeX Intro
 
-```markdown
-Syntax highlighted code block
+- Uses plain text, as opposed to formatted text of WYSIWYG word processors
+- Uses markup tagging conventions to define structure and stylize text
+- Emphasizes content, rather than style
+- Includes features designed for the production of technical and scientific documentation
+- Easier way to use TeX
 
-# Header 1
-## Header 2
-### Header 3
+[Back to Top](#latex)
 
-- Bulleted
-- List
+### TeX and LaTeX
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- TeX: Macro- and token- based language and typesetting system; focus on formatting
+- LaTeX: script-like user interface to the binary TeX program, considered a higher-level language; focus on content
+- LaTeX commands are just complicated sets of TeX commands underneath AKA “macros”
+  - Includes setting up sections, title pages, bibliographies
 ```
+\TeX{} is good at typesetting words like `fjord', `efficiancy',
+and `fiasco'. It is also good at typesetting math like,
+$a^2 + b^2 = c^2$.
+\bye
+```
+![tex](https://cdn.sharelatex.com/blog/images/tex-example.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Back to Top](#latex)
 
-[Back to Top](#welcome-to-github-pages)
+### Let's Begin!
+===EDIT THIS===
+- Uses plain text, as opposed to formatted text of WYSIWYG word processors
+- Uses markup tagging conventions to define structure and stylize text
+- Emphasizes content, rather than style
+- Includes features designed for the production of technical and scientific documentation
+- Easier way to use TeX
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/henryz2000/sdLatex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-[Back to Top](#welcome-to-github-pages)
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-[Back to Top](#welcome-to-github-pages)
+[Back to Top](#latex)
