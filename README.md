@@ -1,7 +1,3 @@
-## LaTeX
-### Karen Chen, Sonal Parab, Henry Zheng
-### SoftDev pd. 8
-
 [LINK TO GUIDE](https://henryz2000.github.io/sdLatex/)
 
 1. [Background Info](#background-info)
