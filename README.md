@@ -62,7 +62,7 @@ $a^2 + b^2 = c^2$.
 \documentclass{article}
 \begin{document}
 Here is my text
-\end{document
+\end{document}
 ```
 ![letsbegin](https://i.imgur.com/FXz04fM.png)
 
