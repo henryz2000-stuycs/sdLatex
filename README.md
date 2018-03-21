@@ -45,6 +45,7 @@
 - LaTeX: script-like user interface to the binary TeX program, considered a higher-level language; focus on content
 - LaTeX commands are just complicated sets of TeX commands underneath AKA “macros”
   - Includes setting up sections, title pages, bibliographies
+
 ```
 \TeX{} is good at typesetting words like `fjord', `efficiancy',
 and `fiasco'. It is also good at typesetting math like,
