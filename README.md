@@ -1,5 +1,3 @@
-[LINK TO GUIDE](https://henryz2000.github.io/sdLatex/)
-
 1. [Background Info](#background-info)
 2. [LaTeX Intro](#latex-intro)
 3. [TeX and LaTeX](#tex-and-latex)
