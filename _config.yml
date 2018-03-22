@@ -1,20 +1,3 @@
 theme: jekyll-theme-minimal
 title: LaTeX
-description: |
-  Karen Chen, Sonal Parab, Henry Zheng
-  SoftDev pd. 8
-  1. [Background Info](#background-info)
-  2. [LaTeX Intro](#latex-intro)
-  3. [TeX and LaTeX](#tex-and-latex)
-  4. [Let's Begin!](#lets-begin)
-  5. [Formatting Basics](#formatting-basics)
-  6. [Let's not get aHEAD of ourselves!](#lets-not-get-ahead-of-ourselves)
-  7. [Section Formatting](#section-formatting)
-  8. [Equation Formatting](#equation-formatting)
-  9. [List Formatting](#list-formatting)
-  10. [Table Formatting](#table-formatting)
-  11. [Images](#images)
-  12. [Embedded Bibliography](#embedded-bibliography)
-  13. [Bibliography with Natbib](#bibliography-with-natbib)
-  14. [LaTeX vs. WYSIWYG](#latex-vs-wysiwyg)
-  15. [Who Uses LaTeX?](#who-uses-latex)
+description: "Karen Chen, Sonal Parab, Henry Zheng\n SoftDev pd. 8"
