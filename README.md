@@ -14,6 +14,8 @@
 14. [LaTeX vs. WYSIWYG](#latex-vs-wysiwyg)
 15. [Who Uses LaTeX?](#who-uses-latex)
 
+---
+
 ### Background Info
 
 - Developed by Leslie Lamport
@@ -22,6 +24,8 @@
 - Built off of a system known as TeX (released in 1978 by Donald Knuth)
 
 [Back to Top](#latex)
+
+---
 
 ### LaTeX Intro
 
@@ -32,6 +36,8 @@
 - Easier way to use TeX
 
 [Back to Top](#latex)
+
+---
 
 ### TeX and LaTeX
 
@@ -50,6 +56,8 @@ $a^2 + b^2 = c^2$.
 
 [Back to Top](#latex)
 
+---
+
 ### Let's Begin!
 
 ```latex
@@ -61,6 +69,8 @@ Here is my text
 ![letsbegin](https://i.imgur.com/FXz04fM.png)
 
 [Back to Top](#latex)
+
+---
 
 ### Formatting Basics
 
@@ -76,6 +86,8 @@ Here is my text
 ![formattingbasics](https://i.imgur.com/OjZBkUu.png)
 
 [Back to Top](#latex)
+
+---
 
 ### Let's not get aHEAD of ourselves!
 
@@ -94,6 +106,8 @@ Here is my text
 
 [Back to Top](#latex)
 
+---
+
 ### Section Formatting
 
 ```latex
@@ -108,6 +122,8 @@ This lab was conducted to examine terminal velocity, the limiting case in the as
 
 [Back to Top](#latex)
 
+---
+
 ### Equation Formatting
 
 ```latex
@@ -121,6 +137,8 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ![equationformatting](https://i.imgur.com/HeF4KDA.png)
 
 [Back to Top](#latex)
+
+---
 
 ### List Formatting
 
@@ -140,6 +158,8 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ![listformatting](https://i.imgur.com/FFTGFzj.png)
 
 [Back to Top](#latex)
+
+---
 
 ### Table Formatting
 
@@ -191,6 +211,8 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 [Back to Top](#latex)
 
+---
+
 ### Images
 
 ```latex
@@ -205,6 +227,8 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 [Back to Top](#latex)
 
+---
+
 ### Embedded Bibliography
 
 ```latex
@@ -213,6 +237,8 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ![embeddedbibliography](https://i.imgur.com/xjl4py6.png)
 
 [Back to Top](#latex)
+
+---
 
 ### Bibliography with Natbib
 
@@ -223,6 +249,8 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 
 [Back to Top](#latex)
 
+---
+
 ### LaTeX vs. WYSIWYG
 
 Advantages of WYSIWYG
@@ -231,6 +259,8 @@ Advantages of WYSIWYG
 - Easier for just quickly jotting down notes
 
 [Back to Top](#latex)
+
+---
 
 ### Who Uses LaTeX?
 
