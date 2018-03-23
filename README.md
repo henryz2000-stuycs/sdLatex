@@ -214,7 +214,39 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ### Embedded Bibliography
 
 ```latex
-[ADD CODE HERE]
+\section{In-Text Citations} 
+``Michel Goossens and Frank Mittelbach and Alexander Samarin``
+\citep{latexcompanion} \\
+``J.K. Rowling``
+\citep{rowling} \\
+``Albert Einstein``
+\citep{einstein} \\
+``Donald Knuth``
+\citep{knuthwebsite} \\
+ 
+\begin{thebibliography}{9}
+ 
+\bibitem{einstein} 
+Albert Einstein. 
+Zur Elektrodynamik bewegter K{\"o}rper. (German) 
+[On the electrodynamics of moving bodies]. 
+\textit{Annalen der Physik}, 322(10):891–921, 1905.
+
+\bibitem{latexcompanion} 
+Michel Goossens, Frank Mittelbach, and Alexander Samarin. 
+\textit{The \LaTeX\ Companion}. 
+Addison-Wesley, Reading, Massachusetts, 1993.
+
+\bibitem{knuthwebsite} 
+Donald Knuth.
+Knuth: Computers and Typesetting.
+
+\bibitem{rowling}
+J.K. Rowling.
+\textit{Harry Potter and the Sorcerer's Stone}.
+London: Bloomsburg Children, 2001.
+
+\end{thebibliography}
 ```
 ![embeddedbibliography](https://i.imgur.com/xjl4py6.png)
 
