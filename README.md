@@ -257,7 +257,58 @@ London: Bloomsburg Children, 2001.
 ### Bibliography with Natbib
 
 ```latex
-[ADD CODE HERE]
+\usepackage{natbib}
+
+\begin{document}
+
+\section{In-Text Citations} 
+``Michel Goossens and Frank Mittelbach and Alexander Samarin``
+\citep{latexcompanion} \\
+``J.K. Rowling``
+\citep{rowling} \\
+``Albert Einstein``
+\citep{einstein} \\
+``Donald Knuth``
+\citep{knuthwebsite}
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
+```
+References.bib
+```latex
+@book{rowling,
+  title =            "Harry Potter and the Sorcerer's Stone",
+  author =           "Rowling, J.K.",
+  year =             "2001",
+  publisher =        "London: Bloomsburg Children"
+}
+ 
+@article{einstein,
+    author =       "Albert Einstein",
+    title =        "{Zur Elektrodynamik bewegter K{\"o}rper}. ({German})
+        [{On} the electrodynamics of moving bodies]",
+    journal =      "Annalen der Physik",
+    volume =       "322",
+    number =       "10",
+    pages =        "891--921",
+    year =         "1905",
+    DOI =          "http://dx.doi.org/10.1002/andp.19053221004"
+}
+ 
+@book{latexcompanion,
+    author    = "Michel Goossens and Frank Mittelbach and Alexander Samarin",
+    title     = "The \LaTeX\ Companion",
+    year      = "1993",
+    publisher = "Addison-Wesley",
+    address   = "Reading, Massachusetts"
+}
+ 
+@misc{knuthwebsite,
+    author    = "Donald Knuth",
+    title     = "Knuth: Computers and Typesetting",
+    url       = "http://www-cs-faculty.stanford.edu/\~{}uno/abcde.html"
+}
 ```
 ![bibliographywithnatbib](https://i.imgur.com/UqYAVZo.png)
 
