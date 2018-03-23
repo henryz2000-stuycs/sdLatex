@@ -1,21 +1,3 @@
-1. [Background Info](#background-info)
-2. [LaTeX Intro](#latex-intro)
-3. [TeX and LaTeX](#tex-and-latex)
-4. [Let's Begin!](#lets-begin)
-5. [Formatting Basics](#formatting-basics)
-6. [Let's not get aHEAD of ourselves!](#lets-not-get-ahead-of-ourselves)
-7. [Section Formatting](#section-formatting)
-8. [Equation Formatting](#equation-formatting)
-9. [List Formatting](#list-formatting)
-10. [Table Formatting](#table-formatting)
-11. [Images](#images)
-12. [Embedded Bibliography](#embedded-bibliography)
-13. [Bibliography with Natbib](#bibliography-with-natbib)
-14. [LaTeX vs. WYSIWYG](#latex-vs-wysiwyg)
-15. [Who Uses LaTeX?](#who-uses-latex)
-
----
-
 ### Background Info
 
 - Developed by Leslie Lamport
@@ -23,7 +5,7 @@
 - Free document preparation system (typesetting) 
 - Built off of a system known as TeX (released in 1978 by Donald Knuth)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -35,7 +17,7 @@
 - Includes features designed for the production of technical and scientific documentation
 - Easier way to use TeX
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -54,7 +36,7 @@ $a^2 + b^2 = c^2$.
 ```
 ![tex](https://cdn.sharelatex.com/blog/images/tex-example.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -68,7 +50,7 @@ Here is my text
 ```
 ![letsbegin](https://i.imgur.com/FXz04fM.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -85,7 +67,7 @@ Here is my text
 ```
 ![formattingbasics](https://i.imgur.com/OjZBkUu.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -104,7 +86,7 @@ Here is my text
 ```
 ![letsnotgetaheadofourselves](https://i.imgur.com/sYaEEbI.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -120,7 +102,7 @@ This lab was conducted to examine terminal velocity, the limiting case in the as
 ```
 ![sectionformatting](https://i.imgur.com/PmtzByc.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -136,7 +118,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ```
 ![equationformatting](https://i.imgur.com/HeF4KDA.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -157,7 +139,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ```
 ![listformatting](https://i.imgur.com/FFTGFzj.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -209,7 +191,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ```
 ![tableformatting2](https://i.imgur.com/gaGueR9.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -225,7 +207,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ```
 ![images](https://i.imgur.com/RzLwLjd.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -236,7 +218,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ```
 ![embeddedbibliography](https://i.imgur.com/xjl4py6.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -247,7 +229,7 @@ where $\rho$ is the density of air, $A$ is the cross-section of the object, $C$ 
 ```
 ![bibliographywithnatbib](https://i.imgur.com/UqYAVZo.png)
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -258,7 +240,7 @@ Advantages of WYSIWYG
 - Built in grammar/spell check
 - Easier for just quickly jotting down notes
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
 
 ---
 
@@ -268,4 +250,4 @@ Advantages of WYSIWYG
 - It is used by employees in tech companies, such as Google and AgileBits, when making PDFs to present to colleagues 
 - LaTeX documents can also be converted to other formats, like HTML, making it easy to share
 
-[Back to Top](#latex)
+[Back to Top](#background-info)
